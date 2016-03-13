@@ -8,7 +8,7 @@ The guide assumes the following information from the test system.  Substitute in
 Domain		: example.com
 Hostname	: mail
 IP Address	: 192.168.10.15
-
+```
 ## Configure the Network Adapter
 
 First we will configure the network adapter for CentOS.  The guide assumes you are using the `eth0` network interface.
